@@ -6,4 +6,4 @@ class Person
     @name
   end
 end
-name = Person.new("name")
+#name = Person.new("name")
