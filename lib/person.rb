@@ -6,4 +6,4 @@ class Person
     @name
   end
 end
-beyonce = Person.new("beyonce")
+name = Person.new("name")
